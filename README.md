@@ -1,2 +1,2 @@
 # risk-of-rain-resourcepack
-NTM Resourcepack which makes several characters look like Risk of Rain ones
+NTM Resourcepack that changes several characters ti look like ones from Risk of Rain 1
